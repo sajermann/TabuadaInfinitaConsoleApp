@@ -11,7 +11,7 @@ namespace ProjetoTabuadaInfinita
             double ateQueNumero = 0.00;
             double intervalo = 0.00;
             bool resposta = false;
-            Console.WriteLine("##### Bem vindo ao programa Tabuada Infinita #####\n");
+            Console.WriteLine("##### Bem vindo ao programa Tabuada Infinita! #####\n");
             
             while (resposta == false) { 
             try
